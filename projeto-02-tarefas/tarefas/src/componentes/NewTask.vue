@@ -38,6 +38,7 @@ export default {
     }
 
     input.form-element {
+        color: #fff;
         width: 500px;
         background: #fff2;
         border-top-left-radius: 8px;
@@ -46,6 +47,7 @@ export default {
     }
 
     button.form-element {
+        color: #fff;
         border-left: none;
         background-color: #2196f3;
         border-top-right-radius: 8px;
